@@ -3,3 +3,6 @@
         email = git@paimoe.com
 [core]
         fileMode = false
+[alias]
+        s = status
+        hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
