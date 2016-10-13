@@ -1,0 +1,4 @@
+alias mytop='top -M'
+alias ports='netstat -tupln'
+
+alias ll='ls -lHa'
